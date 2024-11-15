@@ -1,4 +1,4 @@
-module github.com/marten-seemann/tcp
+module github.com/honey-yogurt/tcp
 
 go 1.15
 
